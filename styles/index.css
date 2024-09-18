@@ -1,0 +1,145 @@
+body {
+    width: 1600px;
+    margin: 0px;
+    padding: 0px;
+    font-family:  "Mulish", sans-serif;
+}
+
+#logo-T {
+    width: 41px;
+    height: 41px;
+    background-color: #458ff6;
+    font-family: "Mulish", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32.63px;
+    text-align: center;
+    align-content: center;
+    color: #ffff;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: tex;
+}
+
+header {
+    height: 41px;
+    margin-top: 56px;
+    margin-left: 191px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    font-family: "Mulish", sans-serif;
+    width: 545px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 192px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #1f1534
+}
+
+nav ul li a:hover {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.59px;
+    text-align: left;
+}
+
+#logo-Trafalgar {
+    width: 107px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30.12px;
+    text-align: left;
+    color: #233348;
+}
+
+#seccion-main {
+    display: flex;
+}
+
+#article-virtual {
+    font-family:  "Mulish", sans-serif;
+    width: 445px;
+    height: 338px;
+    margin-left: 190px;
+    margin-top: 120px;
+    gap: 0px;
+    border-radius: 55px 0px 0px 0px;
+    opacity: 0px;
+    margin-right: 109px;
+}
+
+#article-virtual h1 {
+    font-family:  "Mulish", sans-serif;
+    width: 427px;
+    height: 112px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: black;
+}
+
+#article-virtual p {
+    font-family:  "Mulish", sans-serif;
+    width: 445px;
+    height: 96px;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 32px;
+    text-align: left;
+    color: rgb(123, 121, 121);
+}
+
+#article-virtual button {
+    width: 200px;
+    height: 56px;
+    font-size: 21px;
+    border-radius: 55px 55px 55px 55px;
+    background-color: #458ff6;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+#imagen-virtual {
+    width: 693px;
+    height: 598px;
+   
+}
+
+.font-Mulish {
+    font-family: "Mulish", sans-serif;
+}
+
+.contenedor-main {
+    width: 50%;
+    height: 598px;
+    gap: 0px;
+    opacity: 0px;
+
+}
